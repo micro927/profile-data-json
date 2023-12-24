@@ -51,7 +51,7 @@
     "work": [
         {
             "jobNo": 0,
-            "jobTitle": "Officer (Non Programming Job)",
+            "jobTitle": "University Officer (Non programming job)",
             "jobField": "none",
             "organization": "Registration office, Chiang Mai University",
             "dateStart": "2015-03-01",
@@ -61,16 +61,14 @@
         },
         {
             "jobNo": 1,
-            "jobTitle": "Full Stack Web Developer",
+            "jobTitle": "Full stack developer",
             "jobField": "developer",
             "organization": "Registration office, Chiang Mai University",
             "dateStart": "2019-09-09",
             "dateEnd": "2023-03-31",
             "descriptionList": [
-                "Develop and design 5+ Web Applications that perform CRUD operations, File reading, PDF generating and information dashboard using PHP, jQuery, connected with MySQL database",
-                "Develop REST API for internal use and provides data to an affiliated organization using PHP, Node.js/Express.js, connected with MySQL database",
-                "Develop and design a Static website that serves student's statistic information using Vue.js",
-                "Develop and design Client-Side Web Application using React.js"
+                "Built 5 web applications that perform CRUD operations, file reading, PDF generating and information dashboard using PHP, jQuery",
+                "Develop RESTful API for internal use and provides data to an affiliated organization using PHP, Node.js/Express.js, connected with MySQL database"
             ],
             "tagList": [
                 "PHP",
@@ -79,19 +77,20 @@
                 "MySQL",
                 "Node.js",
                 "Express.js",
-                "Vue.js",
                 "React.js"
             ]
         },
         {
             "jobNo": 2,
-            "jobTitle": "Front-end Developer",
+            "jobTitle": "Front-end developer",
             "jobField": "developer",
             "organization": "20ScoopsCNX",
             "dateStart": "2023-04-01",
             "dateEnd": "",
             "descriptionList": [
-                "Implemented Reponsive design Web Application using React.js (TypeScript) and tailwindCSS"
+                "Proficient in building performant web application using React.js and TypeScript",
+                "Translating design concepts from Figma into responsive user interfaces",
+                "Collaborate with cross-functional teams and seamlessly integrating with back-end systems"
             ],
             "tagList": [
                 "React.js",
@@ -157,6 +156,12 @@
             "level": 4
         },
         {
+            "skillId": "tailwind",
+            "skillTitle": "Tailwind CSS",
+            "type": "frontend",
+            "level": "8"
+        },
+        {
             "skillId": "bootstrap",
             "skillTitle": "Bootstrap CSS",
             "type": "frontend",
@@ -175,9 +180,15 @@
             "level": "7"
         },
         {
+            "skillId": "github_action",
+            "skillTitle": "Github Actions",
+            "type": "operation",
+            "level": "4"
+        }
+        {
             "skillId": "docker",
             "skillTitle": "Docker (Beginner)",
-            "type": "other",
+            "type": "operation",
             "level": "2"
         }
     ],
