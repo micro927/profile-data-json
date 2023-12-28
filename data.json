@@ -51,7 +51,7 @@
     "work": [
         {
             "jobNo": 0,
-            "jobTitle": "University Officer (Non programming job)",
+            "jobTitle": "University Officer (non programming job)",
             "jobField": "none",
             "organization": "Registration office, Chiang Mai University",
             "dateStart": "2015-03-01",
@@ -61,7 +61,7 @@
         },
         {
             "jobNo": 1,
-            "jobTitle": "Full stack developer",
+            "jobTitle": "Full Stack Developer",
             "jobField": "developer",
             "organization": "Registration office, Chiang Mai University",
             "dateStart": "2019-09-09",
@@ -82,7 +82,7 @@
         },
         {
             "jobNo": 2,
-            "jobTitle": "Front-end developer",
+            "jobTitle": "Front-end Developer",
             "jobField": "developer",
             "organization": "20Scoops CNX",
             "dateStart": "2023-04-01",
