@@ -114,7 +114,7 @@
         "level": 7
       },
       {
-        "skillId": "js",
+        "skillId": "ts",
         "skillTitle": "TypeScript",
         "type": "language",
         "level": 7
