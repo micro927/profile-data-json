@@ -105,7 +105,7 @@
         "skillId": "php",
         "skillTitle": "PHP",
         "type": "language",
-        "level": 7
+        "level": 4
       },
       {
         "skillId": "js",
@@ -123,19 +123,19 @@
         "skillId": "html",
         "skillTitle": "HTML",
         "type": "language",
-        "level": 7
+        "level": 6
       },
       {
         "skillId": "css",
         "skillTitle": "CSS",
         "type": "language",
-        "level": 6
+        "level": 5
       },
       {
         "skillId": "python",
         "skillTitle": "Python",
         "type": "language",
-        "level": 6
+        "level": 3
       },
       {
         "skillId": "nodejs",
@@ -147,43 +147,37 @@
         "skillId": "expressjs",
         "skillTitle": "Express.js",
         "type": "backend",
-        "level": 7
+        "level": 6
       },
       {
         "skillId": "reactjs",
         "skillTitle": "React.js",
         "type": "frontend",
-        "level": 6
-      },
-      {
-        "skillId": "vuejs",
-        "skillTitle": "Vue.js",
-        "type": "frontend",
-        "level": 4
+        "level": 8
       },
       {
         "skillId": "tailwind",
         "skillTitle": "TailwindCSS",
         "type": "frontend",
-        "level": "8"
+        "level": 7
       },
       {
         "skillId": "bootstrap",
         "skillTitle": "BootstrapCSS",
         "type": "frontend",
-        "level": "8"
+        "level": 6
       },
       {
         "skillId": "jquery",
         "skillTitle": "jQuery",
         "type": "frontend",
-        "level": "7"
+        "level": 5
       },
       {
         "skillId": "mysql",
         "skillTitle": "MySQL",
         "type": "database",
-        "level": "7"
+        "level": 7
       },
       {
         "skillId": "github_action",
