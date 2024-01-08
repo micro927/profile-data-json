@@ -180,7 +180,7 @@
         "level": 7
       },
       {
-        "skillId": "github_action",
+        "skillId": "github_actions",
         "skillTitle": "Github Actions",
         "type": "operation",
         "level": "4"
